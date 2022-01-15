@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenzies/static/css/main.235130f6.chunk.css",
+    "main.js": "/tenzies/static/js/main.4807e14e.chunk.js",
+    "main.js.map": "/tenzies/static/js/main.4807e14e.chunk.js.map",
+    "runtime~main.js": "/tenzies/static/js/runtime~main.30ca8c69.js",
+    "runtime~main.js.map": "/tenzies/static/js/runtime~main.30ca8c69.js.map",
+    "static/js/2.a61901e5.chunk.js": "/tenzies/static/js/2.a61901e5.chunk.js",
+    "static/js/2.a61901e5.chunk.js.map": "/tenzies/static/js/2.a61901e5.chunk.js.map",
+    "index.html": "/tenzies/index.html",
+    "precache-manifest.6bad39b3041d6a3e9afa8e186aa63745.js": "/tenzies/precache-manifest.6bad39b3041d6a3e9afa8e186aa63745.js",
+    "service-worker.js": "/tenzies/service-worker.js",
+    "static/css/main.235130f6.chunk.css.map": "/tenzies/static/css/main.235130f6.chunk.css.map"
+  }
+}
